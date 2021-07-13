@@ -1,3 +1,6 @@
+# Ignore .vscode
+.vscode/
+
 # Ignore the dataset
 data/
 
